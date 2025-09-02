@@ -18,7 +18,7 @@ Built with **React Query** and **Supabase** for a modern, fast, and scalable exp
 
 ## Live Demo
 
-👉 [Visit The Wild Oasis](https://monsurathavenly.netlify.com)
+👉 [Visit The Wild Oasis](https://monsurathavenly.netlify.app)
 
 ## Getting Started (for local setup)
 
