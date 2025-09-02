@@ -14,11 +14,11 @@ Built with **React Query** and **Supabase** for a modern, fast, and scalable exp
 
 - **Frontend:** React, React Query, TailwindCSS
 - **Backend & Database:** Supabase
-- **Deployment:** Vercel
+- **Deployment:** Netlify
 
 ## Live Demo
 
-👉 [Visit The Wild Oasis](https://your-deployed-link.com)
+👉 [Visit The Wild Oasis](https://monsurathavenly.netlify.com)
 
 ## Getting Started (for local setup)
 
