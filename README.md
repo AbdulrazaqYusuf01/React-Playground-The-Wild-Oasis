@@ -37,6 +37,7 @@ Built with **React Query** and **Supabase** for a modern, fast, and scalable exp
 3. Create a .env file with your Supabase credentials.
 
 4. Run the app locally:
+
    ```bash
    npm run dev
    ```
